@@ -7,7 +7,7 @@
     <h2>LINGKARAN</h2>
     <br>
     <?php
-    $jari = 24 ;
+    $jari = 18 ;
     $phi = 3.14 ;       
     function luas(){
         global $jari, $phi, $luasLing;
