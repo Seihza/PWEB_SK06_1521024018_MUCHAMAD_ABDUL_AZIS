@@ -7,7 +7,7 @@
 	<h2>LINGKARAN</h2>
     <br>
     <?php
-    $jari = 24 ;
+    $jari = 18 ;
     $phi = 3.14 ;       
     function luas(){
         global $jari, $phi, $luasLing;
@@ -39,7 +39,7 @@
     <h2>PERSEGI PANJANG</h2>
     <br>
 	<?php 
-	$p = 24; 
+	$p = 18; 
 	$l = 400;
 	$t = 102;
 	function Luaspp(){
@@ -72,7 +72,7 @@
 	<h2>SEGITIGA</h2>
     <br>
 	<?php 
-	$a = 24; 
+	$a = 18; 
 	$b = 400;
 	$c = 2;
 	$t = 210;
